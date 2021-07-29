@@ -7,7 +7,9 @@ At the forefront of senior management's mind is managing rates of attrition. In 
 ## Results
 
 ### Deliverable 1
-* Employees that have multiple promotions (multiple titles in the system) caused retirment titles to yield duplicate values. Therefore, we leveraged the DISTINCT ON syntax to remove duplicate rows.
+* Employees that have multiple promotions (multiple titles in the system) caused employees to yield duplicate values. Therefore, we leveraged the DISTINCT ON syntax to remove duplicate rows.
+
+  ![image](https://user-images.githubusercontent.com/85204128/127544092-f486ec2d-4402-43dd-a68f-d73066b7dadf.png)
 
 ### Deliverable 2
 * The results yielded a large population of employees retiring within the same timeline which could have seismic impact on company operations
@@ -33,6 +35,6 @@ The results clearly show a large population of employees retiring around the sam
 
 * Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
   
-  No, there are not enough qualified retirment-ready employees in the respective departments to mentor the next generation of Pewlett Hackard employees. The mentor elibigility group pales in comparison to the total population of retirement eligible employees.
+  No, there are not enough qualified retirement-ready employees in the respective departments to mentor the next generation of Pewlett-Hackard employees. The mentor elibigility group pales in comparison to the total population of retirement eligible employees.
   
   ![image](https://user-images.githubusercontent.com/85204128/127522989-5affc92e-fcbf-4c44-a3cf-b12f03f75f6e.png)
